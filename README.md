@@ -18,5 +18,3 @@ mvn org.codehaus.mojo:exec-maven-plugin:3.5.0:java -Dexec.mainClass=org.example.
 League, team, and season selections reflect the original coursework. API access
 and historical-data availability depend on your provider account. GUI/API calls
 were not exercised during recovery. Maven dependencies remain as recovered.
-
-See `RECOVERY_NOTES.md` for snapshot provenance.
